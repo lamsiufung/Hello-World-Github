@@ -1,3 +1,3 @@
 # Hello-World-Github
-This is a hello world project for usage of Github
-I added this line in the "features" branch.
+This is a demo project of Github Actions for CSCI3251,
+created by LAM SIU FUNG.
