@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Greeting from <LAM SIU FUNG>
+name: Greeting from LAM SIU FUNG
 
 # Controls when the action will run. 
 on:
@@ -24,9 +24,9 @@ jobs:
     - name: Print a greeting
       env:
         MY_VAR: Hi there! My name is
-        FIRST_NAME: Mona
-        MIDDLE_NAME: The
-        LAST_NAME: Octocat
+        FIRST_NAME: Lam
+        MIDDLE_NAME: Siu
+        LAST_NAME: Fung
       run:
         echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME.
 
